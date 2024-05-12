@@ -19,24 +19,34 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto "Extremamente Aesthetic ;)" é uma exploração da capacidade das IAs generativas em criar conteúdo visualmente atraente e esteticamente agradável. Utilizando técnicas de geração de imagens e arte generativa, o objetivo é produzir obras de arte digitais que sejam visualmente cativantes e que despertem uma sensação de beleza e harmonia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- GANs (Redes Generativas Adversariais)
+- StyleGAN2
+- Ferramentas de pré-processamento de dados
+- Python e bibliotecas como TensorFlow e PyTorch
+- Ambiente de desenvolvimento Jupyter Notebook
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Coleta de Dados:** Inicialmente, foram coletadas e preparadas diversas imagens de referência que representam diferentes estilos estéticos e temas. Essas imagens foram utilizadas para treinar o modelo de GAN.
+
+2. **Treinamento do Modelo:** O modelo de GAN, especificamente o StyleGAN2, foi treinado utilizando as imagens de referência coletadas. Durante o treinamento, o modelo aprendeu a mapear vetores de entrada aleatórios para imagens que capturam características estéticas desejadas.
+
+3. **Ajustes e Experimentação:** Após o treinamento inicial, foram realizados ajustes finos no modelo e experimentações com diferentes hiperparâmetros para melhorar a qualidade e diversidade das imagens geradas.
+
+4. **Geração de Imagens:** Uma vez que o modelo estava treinado e ajustado satisfatoriamente, foram geradas imagens utilizando amostras aleatórias do espaço latente aprendido pelo modelo. Essas imagens foram visualmente avaliadas e refinadas conforme necessário.
+
+5. **Seleção das Melhores Obras:** Das imagens geradas, foram selecionadas as que melhor representam a estética desejada, levando em consideração critérios como composição, cores, texturas e originalidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto produziu uma coleção de imagens digitais que refletem uma variedade de estilos estéticos e temas, demonstrando a capacidade das IAs generativas em criar conteúdo visualmente atraente e esteticamente agradável. As imagens geradas foram bem recebidas pela comunidade artística e digital, destacando-se pela sua originalidade e beleza.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo "natty" (natural, bonito e harmonioso) com IA pode ser um desafio interessante devido à natureza algorítmica e computacional das técnicas envolvidas. No entanto, ao combinar a criatividade humana com o poder das IAs generativas, é possível alcançar resultados surpreendentes que transcendem as limitações tradicionais da arte digital. A reflexão sobre esse processo nos leva a questionar não apenas o papel da tecnologia na criação artística, mas também a natureza da própria beleza e estética.
 
 ### Exemplos e Insigths
 
